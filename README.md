@@ -4,7 +4,7 @@ Write a simple Python program for the modulation and demodulation of PSK and QPS
 # Tools required
 # Program
 ```
-PSK
+**PSK**
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, lfilter
@@ -57,7 +57,7 @@ plt.grid(True)
 plt.legend()
 plt.tight_layout()
 plt.show()
-QPSK
+**QPSK**
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -137,9 +137,9 @@ plt.show()
 ```
 # Output Waveform
 ```
-psk
+**psk**
 <img width="1345" height="831" alt="image" src="https://github.com/user-attachments/assets/629cb603-bc02-4923-bb94-5355c55ecb51" />
-QPSK
+**QPSK**
 <img width="1311" height="752" alt="image" src="https://github.com/user-attachments/assets/08661e72-7883-4842-8369-b4a822ee28b0" />
 
 ```
